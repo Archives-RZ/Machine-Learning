@@ -6,7 +6,7 @@ with clinical and hospital care. The medical center has a huge head force of 25,
 combined effort of those employees, the medical center has been able to handle approximately 3 million visits so 
 far. In recent times, the hospital was incurring losses despite having the finest doctors available and not lacking 
 scheduled appointments. To investigate the reason for the anomaly, a sample data dump of appointments
-*medicalcentre.csv* is hereby presented. The collected data provides information on the patient’s age, gender, 
+*MedicalCentre.csv* is hereby presented. The collected data provides information on the patient’s age, gender, 
 appointment date, various diseases, etc.
 
 At the beginning of this part of the code, a function is defined to convert the dataset in xlsx format to csv format. Therefore, it is also possible to run the code by only downloading the dataset in xlsx format. If you choose to run the code directly with the dataset in csv format, run only the last line in code block [1].
